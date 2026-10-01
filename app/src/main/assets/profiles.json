@@ -9,6 +9,14 @@
       "kmi": "android15-6.6"
     },
     {
+      "profileId": "mustang-CP31.260623.005",
+      "codename": "mustang",
+      "kernelRelease": "6.6.127-android15-8",
+      "buildDisplay": "CP31.260623.005",
+      "exploitAsset": "exploits/mustang-CP31.260623.005.so",
+      "kmi": "android15-6.6"
+    },
+    {
       "profileId": "frankel-CP2A.260705.006",
       "codename": "frankel",
       "kernelRelease": "6.6.118-android15-8",

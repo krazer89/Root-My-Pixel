@@ -48,6 +48,7 @@ TARGETS=(
   "blazer-CP2A.260705.006"    # Pixel 10 Pro
   "frankel-CP2A.260705.006"   # Pixel 10
   "mustang-CP2A.260705.006"   # Pixel 10 Pro XL
+  "mustang-CP31.260623.005"   # Pixel 10 Pro XL (Android 17 QPR1 Beta 7)
   "comet-CP2A.260705.006"     # Pixel 9 Pro Fold
   "caiman-CP2A.260705.006"    # Pixel 9 Pro
   "tegu-CP2A.260705.006"      # Pixel 9a
